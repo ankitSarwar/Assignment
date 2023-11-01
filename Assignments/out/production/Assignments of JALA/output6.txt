@@ -1,0 +1,1 @@
+This is a sample text to write to a file using FileWriter.
